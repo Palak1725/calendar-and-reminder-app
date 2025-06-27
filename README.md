@@ -36,3 +36,16 @@ Install required packages using pip:
 
 ```bash
 pip install tkcalendar
+
+🤝 Contributions
+Pull requests are welcome! If you’d like to enhance the app (e.g., recurring reminders, theme support, sound notifications), feel free to fork and create a PR.
+
+📜 License
+This project is licensed under the MIT License.
+
+🙌 Acknowledgements
+tkcalendar for the calendar widget
+
+Python’s datetime and threading modules for scheduling logic
+
+
